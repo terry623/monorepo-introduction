@@ -5,7 +5,7 @@ drawings:
   persist: false
 transition: slide-left
 layout: intro-image
-image: "./images/Background.webp"
+image: "/images/Background.webp"
 ---
 
 <div class="absolute top-10 right-10">
@@ -25,12 +25,12 @@ layout: section
 
 ---
 layout: image
-image: "./images/Polyrepo.png"
+image: "/images/Polyrepo.png"
 ---
 
 ---
 layout: image
-image: "./images/Monorepo.png"
+image: "/images/Monorepo.png"
 ---
 
 ---
@@ -41,7 +41,7 @@ layout: section
 
 ---
 layout: image
-image: "./images/Practice.png"
+image: "/images/Practice.png"
 ---
 
 ---
@@ -107,7 +107,7 @@ layout: section
 ---
 layout: image
 class: center-last-img
-image: "./images/Features.png"
+image: "/images/Features.png"
 ---
 
 ---
@@ -122,7 +122,7 @@ layout: statement
 
 # We use
 
-<img src="./images/Moon.png" width="50%" style="display: block; margin: 0 auto;">
+<img src="/images/Moon.png" width="50%" style="display: block; margin: 0 auto;">
 
 ---
 layout: statement
