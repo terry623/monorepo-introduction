@@ -112,6 +112,7 @@ layout: section
 
 ---
 layout: image
+class: center-last-img
 image: "./images/Features.png"
 ---
 
@@ -119,13 +120,15 @@ image: "./images/Features.png"
 layout: section
 ---
 
-# Tools？
+# Monorepo tools？
 
 ---
 layout: statement
 ---
 
-# We use Moon！
+# We use
+
+<img src="./images/Moon.png" width="50%" style="display: block; margin: 0 auto;">
 
 ---
 layout: statement
