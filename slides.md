@@ -21,7 +21,7 @@ image: "./images/Background.webp"
 layout: section
 ---
 
-# What is a Monorepo？
+# What Is A Monorepo？
 
 ---
 layout: image
@@ -34,16 +34,10 @@ image: "./images/Monorepo.png"
 ---
 
 ---
-layout: quote
----
-
-# "Not just code colocation"
-
----
 layout: section
 ---
 
-# But why？
+# But Why？
 
 ---
 layout: image
@@ -66,7 +60,7 @@ layout: statement
 layout: statement
 ---
 
-# 對共享函式庫進行<br/>跨專案變更的成本高昂
+<h1 style="line-height: 1.5;">對共享函式庫進行<br/>跨專案變更的成本高昂</h1>
 
 ---
 layout: statement
@@ -78,7 +72,7 @@ layout: statement
 layout: section
 ---
 
-# So Monorepo？
+# How Does Monorepo Help？
 
 ---
 layout: statement
@@ -108,7 +102,7 @@ layout: statement
 layout: section
 ---
 
-# Monorepo features？
+# Monorepo Features？
 
 ---
 layout: image
@@ -120,7 +114,7 @@ image: "./images/Features.png"
 layout: section
 ---
 
-# Monorepo tools？
+# Monorepo Tools？
 
 ---
 layout: statement
@@ -134,4 +128,4 @@ layout: statement
 layout: statement
 ---
 
-# Thanks for listening
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF4eDVrdjdsbnFsaThkNG01NGNucGNlYWc2c2JxdTc2cm5zMjY3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfK4cXKJTTay1Ava29/giphy.gif" width="100%" style="display: block; margin: 0 auto;"/>
