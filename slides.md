@@ -128,4 +128,10 @@ layout: statement
 layout: statement
 ---
 
+<img src="/images/CopilotWeb.png" width="80%" style="display: block; margin: 0 auto;">
+
+---
+layout: statement
+---
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF4eDVrdjdsbnFsaThkNG01NGNucGNlYWc2c2JxdTc2cm5zMjY3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfK4cXKJTTay1Ava29/giphy.gif" width="100%" style="display: block; margin: 0 auto;"/>
